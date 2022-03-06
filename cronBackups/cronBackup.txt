@@ -1,0 +1,24 @@
+# setting up next wake times
+59 7 * * 1,4 open /Users/jerry/Desktop/shellscripts/wake.command
+59 8 * * 2,3,5 open /Users/jerry/Desktop/shellscripts/wake.command
+
+# Mon Thurs p1
+59 7 * * 1,4 open https://zoom.us/j/99409253881?pwd=dEhrRi8way9LcVRhajdzbDl3Uks1UT09#
+
+# Mon Thu p2
+49 9 * * 1,4 open https://zoom.us/j/93014866229?pwd=VzMrS2pTNHR5QStSTVBubFgyb08vZz09#
+
+# Mon Thu p3
+19 12 * * 1,4 open https://zoom.us/j/96758388414?pwd=WDlRZVZsQ2wyYmpXcmJCa1lSQWhLQT09#
+
+# Tue Fri p4
+59 8 * * 2,5 open https://zoom.us/j/97514938363?pwd=elhQZW5aZEV6dVJjaWJZSlRjS3JGQT09#
+
+# Tue Fri p5
+49 10 * * 2,5 open https://zoom.us/j/94682200437?pwd=bTBVYUlRMlZIcjNCc2RwYmVyT3FvUT09#
+
+# Tue Fri p6
+14 13 * * 2,5 open https://zoom.us/j/93769861726?pwd=ZWxKZ1docG9PZ3ZFd2plRXZlem1Vdz09#
+
+# Wed advisory
+59 8 * * 3 open https://zoom.us/j/93014866229?pwd=VzMrS2pTNHR5QStSTVBubFgyb08vZz09#
